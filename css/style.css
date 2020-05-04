@@ -1,0 +1,56 @@
+body {
+    margin-top: 0;
+    text-align: center;
+    font-family: " Merriweather, Arial, sans-serif;
+ font-weight: 50px;
+    background-color: lightblue;
+}
+
+h1 {
+    width: 100%;
+    display: inline-block;
+    top: 110px;
+    width: 100%;
+    font-family: cursive;
+    font-size: 50px;
+    position: relative;
+}
+
+P {
+    display: inline-block;
+    top: 110px;
+    width: 100%;
+    font-family: "Helvetica Neue, Helvetica, Arial, sans-serif;
+ font-weight: 50px;
+    position: relative;
+}
+
+.top-container {
+    background-color: YELLOW;
+    height: 600px;
+    width: 100%;
+    padding: 50px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.mountain {
+    position: absolute;
+    top: 300px;
+    left: 450px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 200px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    bottom: 100px;
+}
